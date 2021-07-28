@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§4Mörder Structure",
+        "name": "§4Mörder Map",
+        "uuid": "79e402ef-e22d-4f6f-9db6-30bc155c201f",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "§4Python62",
+            "type": "data",
+            "uuid": "a3c8cd3e-8f97-4aa1-b4a3-9ec4c7acacfb",
+            "version": [1, 0, 0]
+        }
+    ]
+}
